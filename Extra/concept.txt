@@ -22,4 +22,4 @@ Checkmate:
 If the player goes with the Syndicate senator, they help track down criminals (less important extremists, although the player is not informed of this) in the Syndicate to hand over to Syndicate Security, culminating in intercepting Sawyer. This pushes FW to Checkmate, with the player having an outside perspective and so not trapped. Final salary increase shortly before or during Pug incursion. The Syndicate provides jump drives, but is more able to obscure their origin than in FW Recon.
 Side Plots:
 Protector Diplomacy: Help provide support during negotiations for the Navy being given a license for Protectors/other reason for Protectors to appear in Navy fleets. During early Start.
-Electron Beam Testing: Help test Electron Beams before final deployment. Late Start/early Middle.
+Deep Sky Testing: Help test Electron Beams and Typhoon Torpedoes before final deployment. Late Start/early Middle.
